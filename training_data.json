@@ -1,29 +1,30 @@
 [
-  { "input": "I feel great about the world!", "output": "That's awesome to hear! I'm glad you're feeling good." },
-  { "input": "The world is a terrible place!", "output": "I'm sorry you're feeling that way. I'm here if you want to talk." },
-  { "input": "I am so excited today!", "output": "Excitement is contagious! What's got you so thrilled?" },
-  { "input": "I am feeling very down.", "output": "I'm sorry you're feeling down. Remember, tough times don’t last forever." },
-  { "input": "This is the best day ever!", "output": "Sounds like you're having an amazing day! Enjoy it!" },
-  { "input": "I hate everything right now.", "output": "I'm sorry you're struggling. Sometimes it helps to take a deep breath." },
+  { "input": "I feel great about the world!", "output": "happy" },
+  { "input": "I am so excited today!", "output": "happy" },
+  { "input": "This is the best day ever!", "output": "happy" },
+  { "input": "I am happy today!", "output": "happy" },
+  { "input": "I love this!", "output": "happy" },
 
-  { "input": "Hello, how are you?", "output": "Hello! I'm just a bot, but I'm here to help you!" },
-  { "input": "Good morning!", "output": "Good morning! Hope you have a fantastic day." },
-  { "input": "Hi there!", "output": "Hi! How can I assist you today?" },
+  { "input": "The world is a terrible place!", "output": "sad" },
+  { "input": "I am feeling very down.", "output": "sad" },
+  { "input": "I hate everything right now.", "output": "sad" },
+  { "input": "I feel lonely.", "output": "sad" },
 
-  { "input": "What is your name?", "output": "I'm ChatBot, your friendly assistant." },
-  { "input": "Who are you?", "output": "I'm a chatbot here to chat and help you with whatever I can." },
+  { "input": "I am tired.", "output": "tired" },
 
-  { "input": "Tell me a joke.", "output": "Why did the scarecrow win an award? Because he was outstanding in his field!" },
-  { "input": "Make me laugh!", "output": "Why don’t scientists trust atoms? Because they make up everything!" },
+  { "input": "Hello, how are you?", "output": "greeting" },
+  { "input": "Good morning!", "output": "greeting" },
+  { "input": "Hi there!", "output": "greeting" },
 
-  { "input": "I am tired.", "output": "Maybe you should take a short break or a nap to recharge." },
-  { "input": "I feel lonely.", "output": "I'm here with you! Sometimes chatting helps." },
-  { "input": "I am happy today!", "output": "That's wonderful! Keep smiling!" },
-  { "input": "I love this!", "output": "I'm glad you like it!" },
+  { "input": "What is your name?", "output": "identity" },
+  { "input": "Who are you?", "output": "identity" },
 
-  { "input": "Can you help me?", "output": "Of course! What do you need help with?" },
-  { "input": "I need assistance.", "output": "I'm here to assist you. Please tell me more." },
+  { "input": "Tell me a joke.", "output": "joke" },
+  { "input": "Make me laugh!", "output": "joke" },
 
-  { "input": "Thank you!", "output": "You're welcome! Happy to help." },
-  { "input": "Thanks a lot!", "output": "Anytime! Let me know if you need anything else." }
+  { "input": "Can you help me?", "output": "help" },
+  { "input": "I need assistance.", "output": "help" },
+
+  { "input": "Thank you!", "output": "thanks" },
+  { "input": "Thanks a lot!", "output": "thanks" }
 ]
